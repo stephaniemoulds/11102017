@@ -4,7 +4,24 @@
 
 <hr>
 
+<h2>Some HTML Formatting Stuff</h2>
+<h3>Lists</h3>
+<h4>Ordered lists have numbers</h4>
+<ol>
+  <li>Item 1</li>
+  <li>Item 2</li>
+</ol>
 
+<h4>UnOrdered lists have bullets</h4>
+<ul>
+  <li>Item 1</li>
+  <li>Item 2</li>
+</ul>
+
+<hr>
+
+<h3>Text Styles</h3>
+<p>In this paragraph, I am going to <u>underline this</u>, and then this is <strong>very important</strong>, and then this is <em>italicised for effect</em>. For example, <em>Oh no!</em> he cried.</p>
 
 
 ### Jekyll Themes
