@@ -28,7 +28,11 @@
 <h3>Links and Images</h3>
 <p>First, I'm going to link to <a href="http://calivegas.tumblr.com/">my website</a></p>
   
+<img src="https://cdn.pixabay.com/photo/2015/12/08/00/32/london-1081820_960_720.jpg" />
   
+
+
+<hr>
 
 
 
