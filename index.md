@@ -1,5 +1,5 @@
 <h1>Language learning with ME</h1>
-<h2>Section One: What you can learn here.<h/2>
+<h2>Section One: What you can learn here.</h2>
 <p>This is the first paragraph</p>
 
 <hr>
