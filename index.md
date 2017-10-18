@@ -38,7 +38,7 @@
   <tr>
     <th>English word</th>
     <th>French word</th>
-    <th>German table</th>
+    <th>German word</th>
   </tr>
   <tr>
     <td>table</td>
