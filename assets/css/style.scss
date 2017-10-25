@@ -1,7 +1,6 @@
----
----
 
-"{{ site.theme }}";
+
+@import "{{ site.theme }}";
 
 /* Style the list */
 ul.breadcrumb {
