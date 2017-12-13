@@ -9,3 +9,9 @@
 
 
 <iframe src="https://archive.org/embed/adam1_201711" width="500" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<p>
+  <a style="float:left;" href="page2.html">Back to Page 2</a>
+  <a style="float:right;" href="page4.html">Continue to Page 4</a>
+  </p>
+  <div style="clear:both;"></div>
