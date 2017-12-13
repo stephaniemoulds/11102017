@@ -9,7 +9,7 @@
 
 
 <p>
-  <a style="float:left;" href="page1.html">Back to Home</a>
+  <a style="float:left;" href="index.html">Back to Home</a>
   <a style="float:right;" href="page3.html">Continue to Page 3</a>
   </p>
   <div style="clear:both;"></div>
